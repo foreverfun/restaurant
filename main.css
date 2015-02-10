@@ -1,0 +1,43 @@
+* {box-sizing: border-sizing;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #E4DD91;
+
+
+}
+h1{
+	border-bottom: solid 3px;
+
+}
+
+.bigContainer{
+	margin: auto;
+	width: 85%;
+	padding-bottom: 5%;
+	background-color: #e49232;
+}
+
+.heading{
+	
+	text-align:center;
+	padding: 10px;
+
+}
+
+.drinks, .plates{
+	
+	padding-bottom: 15px;
+	font-weight: bold;
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+.menu{
+	text-align: center;
+	border: solid 2px;
+	border-color: #A12523;
+	width: 85%;
+	margin-left: 8%;
+}
